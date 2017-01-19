@@ -1,0 +1,97 @@
+body{
+	font-family: "Raleway", "Helvetica"
+}
+h1 {
+	font-family: "Roboto", "Serif";
+	color: #EEE;
+}
+ul {
+	list-style: none;
+}
+
+#page-container {
+	margin: 0 auto;
+	width: 90%;
+	padding: 20px;
+}
+
+section {
+	padding: 20px;
+	margin-bottom: 20px; 
+}
+section#intro {
+	background-color: #3498db;
+	text-align: center;
+}
+
+section#intro .content img {
+	width: 125px;
+	float: left;
+	margin: 10px;
+	border-radius: 50%; 
+}
+
+section .content {
+	padding: 20px;
+}
+section#intro .large-info {
+	font-size: 1.2em;
+}
+
+section#intro .small-info {
+	font-size: 1em;
+}
+
+section#random-cat-facts {
+	background-color: #9b59b6;
+}
+
+section#random-cat-facts .content li{
+	padding: 10px;
+    border-bottom: 1px dashed white;
+    color: #fff;
+}
+
+section#random-cat-photos {
+	background-color: #f1c40f;
+}
+
+section#random-cat-photos #img-cont{
+	width: 806px;
+	    margin: 0 auto;
+}
+section#random-cat-photos #img-cont div{
+	display: inline-table;
+}
+
+section#random-cat-photos #img1 {
+	background: url(https://s-media-cache-ak0.pinimg.com/736x/74/21/6d/74216d7d32810aa6b8a5d4410a4d87a9.jpg) no-repeat center center;
+    height: 400px;
+    width: 400px;
+}
+section#random-cat-photos #img2 {
+	background: url(http://cdn.catsfotos.com/i/28/7a/7c/95/4d/22-cats-who-went-too-far-with-their-if-i-fits-i-sits-motto-4ae176eb-49b2-4c31-98ae-2430ef1b6b56_original.jpg?1453400062) no-repeat center center;
+    height: 400px;
+    width: 400px;
+}
+section#random-cat-photos #img3 {
+	background: url(https://s-media-cache-ak0.pinimg.com/originals/51/7f/83/517f8351f133f4a79eca12c63061dfc8.jpg) no-repeat center center;
+    height: 400px;
+    width: 400px;
+}
+section#random-cat-photos #img4 {
+	background: url(https://s-media-cache-ak0.pinimg.com/564x/0f/5a/38/0f5a3818b41e9d6076bf1d879ffd3b76.jpg) no-repeat center center;
+    height: 400px;
+    width: 400px;
+}
+section#random-cat-photos #img5 {
+	background: url(http://maxpixel.freegreatpicture.com/static/photo/1x/Tiger-Mackerel-Sweet-Cuddly-Funny-Cat-Cute-Red-1899115.jpg) no-repeat center center;
+    height: 400px;
+    width: 400px;
+}
+/*<img src="">
+<img src="https://s-media-cache-ak0.pinimg.com/originals/51/7f/83/517f8351f133f4a79eca12c63061dfc8.jpg">
+<img src="">
+<img src="http://amolife.com/image/images/stories/Animals/Cats/Cute_Funny_Cats_Wearing_Glasses_(9).jpg">
+<img src="https://s-media-cache-ak0.pinimg.com/236x/ec/1f/5d/ec1f5dea38b9f272ffb3b13f3c029e6b.jpg">
+<img src="https://3.bp.blogspot.com/-WJfZn0UpPiQ/V1hnBUztbyI/AAAAAAABnvc/f2j5oZ7iW9gKI4bASG3ctQCU0PzTm65jQCLcB/s1600/funny-cats-210-01.jpg">*/
